@@ -1,7 +1,9 @@
-# Jarvis Voice Assistant
+# 🤖 Jarvis Voice Assistant (Python AI Desktop Assistant)
 
-## Overview
-Jarvis is an AI-powered voice assistant that helps users manage tasks, provide information, and offer a conversational experience. It integrates with various services and is designed to assist with daily activities.
+Jarvis is a Python-based AI voice assistant that can perform daily desktop tasks using voice commands.  
+It can open applications, play music, send WhatsApp messages, fetch news, and control system operations.
+
+This project is built for **learning, personal use, and placement portfolio demonstration**.
 
 ## Features
 - Voice command recognition
@@ -24,15 +26,6 @@ Jarvis is an AI-powered voice assistant that helps users manage tasks, provide i
    ```bash
    python jarvis.py
    ```
-
-```
-# 🤖 Jarvis Voice Assistant (Python AI Desktop Assistant)
-
-Jarvis is a Python-based AI voice assistant that can perform daily desktop tasks using voice commands.  
-It can open applications, play music, send WhatsApp messages, fetch news, and control system operations.
-
-This project is built for **learning, personal use, and placement portfolio demonstration**.
-
 ---
 
 # 🚀 Features
