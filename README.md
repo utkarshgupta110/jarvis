@@ -173,8 +173,6 @@ jarvis/
 # 🎯 Future Improvements
 - ChatGPT integration
 - GUI interface (Iron Man style)
-- Face recognition login
-- Smart home automation
 - Advanced AI conversation
 
 ---
