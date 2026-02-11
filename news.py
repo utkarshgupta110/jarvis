@@ -1,9 +1,13 @@
 import requests
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+api = os.getenv("NEWS_KEY")
 
 def get_news():
-    # api_key = "pub_37dbdee1ba2e498ba7156a6b5d632c8a"
 
-    url = "https://newsdata.io/api/1/latest? apikey=pub_37dbdee1ba2e498ba7156a6b5d632c8a"
+    url = f"https://newsdata.io/api/1/latest? apikey={api}"
 
     response = requests.get(url)
     data = response.json()
